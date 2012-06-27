@@ -1,0 +1,11 @@
+An object is created from a class.
+
+A class is a "blueprint" for objects.
+
+An object has specific states and methods, a class just defines which states can (or should be) defined when an object is created.
+
+States refer to specific values, such as color, name, etc.
+
+Methods refer to behavior. Bark, eat, etc.
+
+
